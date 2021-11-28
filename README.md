@@ -26,11 +26,6 @@
 * **Stocks**
 * **Reports**
 
-## Demo Video
-
-<iframe src="https://drive.google.com/file/d/18lkJ-Gdheajg2lLDQQTzC5irwccqQ2Dd/view?usp=sharing" width="640" height="415"></iframe>
-
-
 Requirements for Project Setup is XAMPP and your favourite browser.
 
 For accessing this Web Application you have to open XAMPP and start the Apache and MySQL and then type localhost/IMSFinal in your browser.
